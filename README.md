@@ -1,5 +1,5 @@
 # smartCar
-The smart car is a highly computerized automobile featuring ubiquitous computing, intuitive human-computer interaction and an open application platform. Here, we propose an advanced Smart Car demonstration platform with a transparent windshield display and various motion sensors where drivers can manipulate a variety of car-appropriate applications in augmented reality. Similar to smartphones, drivers can customize their Smart Car through free downloads of car-appropriate applications according to their wants and needs. 
+The smart car is a system that integrates sensing and comprehensive environment, planning and decision-making, and multi-level assisted driving control. It adopts computer, modern, automatic information integration, communication, artificial intelligence and other technologies. It is a typical high-tech vehicle research. It is mainly used to improve the comprehensiveness, comfort and humanized application interface of automobiles. And the hotspots of smart car research in the world, smart engineering and automotive field. New power, many of which will be fully integrated into the intelligent systems of their respective key development
 
 
 
@@ -30,4 +30,3 @@ lower portion: driver’s vision field has been improved after turning on the ap
 Figure 6. Driver performing the nighttime contrast enhancement application where the
 driver’svision field is increased. Upper and lower portions represent the driver’s vision field
 before and after using the application.
-
